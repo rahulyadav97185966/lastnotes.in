@@ -145,7 +145,7 @@
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
                   <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">Syllabus</h2>
                   <h4 style="color: black;">Information Technology</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -159,9 +159,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/m3.php.php">M-3</h2>
-                  <h4 style="color: black;">Engineering Mathematics-III</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/m3.php.php">RDBMS</h2>
+                  <h4 style="color: black;">Relational Data Base Management System</h4>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -175,9 +175,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/pde.php">PDE</h2>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/pde.php">AI</h2>
                  <h4 style="color: black;">Product Design Engineering</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -191,9 +191,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/stld.php">STLD</h2>
-                  <h4 style="color: black;">Switching Theory and logic Design</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/stld.php">Software Engineearing</h2>
+                  <h4 style="color: black;">Software Engineearing</h4>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -207,9 +207,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/cao.php">CAO</h2>
-                  <h4 style="color: black;">Computer Architecture and Organization</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/cao.php">Advance Networking</h2>
+                  <h4 style="color: black;">Advance Networking</h4>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -223,9 +223,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/cpp.php">C++</h2>
-                  <h4 style="color: black;">Object Oriented Paradigm with C++</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/cpp.php">Advance Java</h2>
+                  <h4 style="color: black;">Advance Java</h4>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -241,7 +241,7 @@
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
                   <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="it/java.php">JAVA</h2>
                   <h4 style="color: black;">Programming in Java</h4>
-                  <h5 style="color: black;">Course: B.TECH (BATU)</h5>
+                  <h5 style="color: black;">Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -255,9 +255,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">Web</h2>
-                  <h4>Introduction to Web technology</h4>
-                  <h5>Course: B.TECH (BATU)</h5>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">DBMS</h2>
+                  <h4>Data Base Management System</h4>
+                  <h5>Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -273,7 +273,7 @@
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
                   <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">MPMC</h2>
                   <h4>Microprocessor and Microcontroller</h4>
-                  <h5>Course: B.TECH (BATU)</h5>
+                  <h5>Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -287,9 +287,9 @@
             <div class="box" style="min-height: 170px;margin-top: 50px;">
             <center>
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
-                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">DS</h2>
+                  <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">RDBMS</h2>
                  <h4>Data Structure And Application</h4>
-                  <h5>Course: B.TECH (BATU)</h5>
+                  <h5>Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -305,7 +305,7 @@
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
                   <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">INP</h2>
                   <h4>Internetworking Protocol</h4>
-                  <h5>Course: B.TECH (BATU)</h5>
+                  <h5>Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             
@@ -321,7 +321,7 @@
               <div style="text-align: center;margin-top: 2px;padding: 2px;">
                   <h2 style="color: #48abec;text-decoration: none;margin-top: 10px;" href="itsyllabus.php">DSA</h2>
                  <h4>Discreate Structure And Application</h4>
-                  <h5>Course: B.TECH (BATU)</h5>
+                  <h5>Course: MSc-IT (BAMU)</h5>
                </div>  
             </center>
             

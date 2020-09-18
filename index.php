@@ -238,7 +238,7 @@
               <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">48</p>
+              <p class="counter">24</p>
               <span class="counter-text">Subjects</span>
             </div>
           </div>
@@ -416,33 +416,22 @@
         <div class="col-md-3">
           <div class="servibox">          
             <div class="service-content">
-              <img src="img/team/2.jpg" style="border-radius: 5px;width: 100%;height: 280px;">
-              <h4 style="text-align: center;margin-top: 20px;margin-bottom: 20px;">
-                Varad Lad
-              </h4>
-              <p style="text-align: center;">Web Designer</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="servibox">          
-            <div class="service-content">
-              <img src="img/team/3.jpg" style="border-radius: 5px;width: 100%;height: 280px;;">
-              <h4 style="text-align: center;margin-top: 20px;margin-bottom: 20px;">
-                Chaitanya Tupsamudre
-              </h4>
-              <p style="text-align: center;">Web Designer</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="servibox">          
-            <div class="service-content">
               <img src="img/team/4.jpg" style="border-radius: 5px;width: 100%;height: 280px;;">
               <h4 style="text-align: center;margin-top: 20px;margin-bottom: 20px;">
                 Sagar Yadav
               </h4>
               <p style="text-align: center;">Web Designer</p>
+            </div>
+          </div>
+        </div>
+	<div class="col-md-3">
+          <div class="servibox">          
+            <div class="service-content">
+              <img src="img/team/5.jpg" style="border-radius: 5px;width: 100%;height: 280px;;">
+              <h4 style="text-align: center;margin-top: 20px;margin-bottom: 20px;">
+                Mahesh Maske
+              </h4>
+              <p style="text-align: center;">Web Admin</p>
             </div>
           </div>
         </div>
@@ -517,7 +506,7 @@
                     </p>
                     <ul class="list-ico">
                       <li><span class="ion-ios-location"></span> Aurangabad,Maharashtra,india</li>
-                      <li><span class="ion-ios-telephone"></span>8459802768</li>
+                      <li><span class="ion-ios-telephone"></span>7888011119</li>
                       <li><span class="ion-email"></span> codingstore9718@gmail.com</li>
                     </ul>
                   </div>
